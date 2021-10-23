@@ -24,7 +24,7 @@ If you need import single style for some component you can get to the file from 
 
 ## Public NPM
 
-Before publish you have to bump up package.json version & change description in README.md which is use in npm as description. You have to put every files in styles & run command.
+Before publish you have to bump up package.json version & change description in README.md which is use in npm as description. You have to put every files in styles.
 
 ```
 npm publish
