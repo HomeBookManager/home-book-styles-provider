@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "styles/index.scss",
-  "typings": "dist/index.js",
   "files": [
-    "dist",
+    "styles",
     "README.md"
   ],
   "scripts": {
